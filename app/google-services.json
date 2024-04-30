@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "790656447430",
+    "project_id": "chatappexample-be5ad",
+    "storage_bucket": "chatappexample-be5ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790656447430:android:7b72c9b98179feb7d438c7",
+        "android_client_info": {
+          "package_name": "uz.kenjayev_dev.chatappexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790656447430-40kv3lupnj950dhm48ma0vkhsb231gr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.kenjayev_dev.chatappexample",
+            "certificate_hash": "343e81fc5428e63fd696f443e693d96e232b3f9c"
+          }
+        },
+        {
+          "client_id": "790656447430-tic433ggq9as5o49l0im86lj1bak3uvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg9_5pB-1OXqNb1ne0BkOpFUnUuV3RRMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790656447430-tic433ggq9as5o49l0im86lj1bak3uvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
